@@ -1,2 +1,24 @@
-# remarkable.tools
-remarkable.tools is the project which aims to offer premium tools for MultiversX blockchain.
+## Welcome Elrond builders and founders! 👋
+
+`Remarkable Tools` is a project that aims to offer premium tools for the Elrond Community. Please share the project with your community and join the [Telegram](https://t.me/RemarkableTools) and [Discord](https://discord.io/RemarkableTools) channels if you want!
+
+[RemarkableTools](https://github.com/RemarkableTools) github account contains open-source repositories where Elrond Devs can contribute and make connections.
+
+There are two unique repositories:
+- [ErdCsharp](https://github.com/RemarkableTools/ErdCsharp) which is a C# SDK library for Elrond API that can be used to query the blockchain and make transactions.
+- [ErdWalletConnect](https://github.com/RemarkableTools/ErdWalletConnect) which is a C# library that can be used to connect to your Elrond Wallet.
+
+&nbsp;
+## remarkable.tools
+
+[remarkable.tools](remarkable.tools) is our website which can be used by anyone to get free access to unique premium tools.
+
+Details about:
+- [Snapshot](https://github.com/RemarkableTools/remarkable.tools/wiki/Snapshot)
+- [Transactions](https://github.com/RemarkableTools/remarkable.tools/wiki/Transactions)
+
+Other useful links:
+- [Put your project on front page](https://github.com/RemarkableTools/remarkable.tools/discussions/3)
+- [Project Discussions](https://github.com/RemarkableTools/remarkable.tools/discussions/1)
+- [Requests](https://github.com/RemarkableTools/remarkable.tools/discussions/2)
+- [Issue Report](https://github.com/RemarkableTools/remarkable.tools/issues)
