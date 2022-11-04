@@ -18,7 +18,7 @@ Details about:
 - [Transactions](https://github.com/RemarkableTools/remarkable.tools/wiki/Transactions)
 
 Other useful links:
-- [Put your project on front page](https://github.com/RemarkableTools/remarkable.tools/discussions/3)
+- [Put your project on front page](https://github.com/RemarkableTools/remarkable.tools/discussions/2)
 - [Project Discussions](https://github.com/RemarkableTools/remarkable.tools/discussions/1)
-- [Requests](https://github.com/RemarkableTools/remarkable.tools/discussions/2)
+- [Requests](https://github.com/RemarkableTools/remarkable.tools/discussions/3)
 - [Issue Report](https://github.com/RemarkableTools/remarkable.tools/issues)
