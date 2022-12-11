@@ -1,20 +1,23 @@
 ## Welcome [MultiversX](https://github.com/ElrondNetwork) builders and founders! 👋
 
-`Remarkable Tools` is a project which aims to offer premium tools for the MultiversX Community. You can join the [Telegram](https://t.me/RemarkableTools) and [Discord](https://discord.io/RemarkableTools) channels if you want to take part in this project!
+`Remarkable Tools` is a project made for MultiversX community with the main goal of offering easy to use tools for anybody. You can join the [Telegram](https://t.me/RemarkableTools) and [Discord](https://discord.io/RemarkableTools) channels if you want to take part in this project!
 
-[RemarkableTools](https://github.com/RemarkableTools) github organization contains open-source repositories where [MultiversX](https://github.com/ElrondNetwork) Devs can contribute to the development of those remarkable tools. 🛠️
+A set of great tools developed for all MultiversX blockchain users, free to use.
+- `NFT/SFT snapshot` - Get the owners for multiple NFT/SFT collections at the same time, with multiple download formats
+- `Token snapshot` - Get the owners for a Token, with multiple download formats
+- `Tx Filter` - Get blockchain transactions based on some filters, with the possibilty to download them
 
-There are two unique repositories, soon to be released:
-- `ErdCsharp` which is a C# SDK library for Elrond API that can be used to query the blockchain and make transactions.
-- `ErdWalletConnect` which is a C# library that can be used to connect to your Wallet.
+## 
+The second part of the project consists in a Github [organization](https://github.com/RemarkableTools) for programmers with the goal of onboarding C# developers into the MultiversX ecosystem. 🛠️
+
+- `ErdCsharp` - Unique C# SDK for interacting with Elrond API. Query the blockchain or send transactions
+- `ErdWalletConnect` - Unique C# SDK for interacting with Elrond Wallets. Create connection and sign transactions.
 
 &nbsp;
-## remarkable.tools
-
-[remarkable.tools](https://remarkable.tools) is our website which can be used by anyone to get free access to unique premium tools, like ESDT owners snapshots or transactions filtering.
+## [remarkable.tools](https://remarkable.tools)
 
 Details about:
-- [Snapshot](https://github.com/RemarkableTools/remarkable.tools/wiki/Snapshot)
+- [Snapshots](https://github.com/RemarkableTools/remarkable.tools/wiki/Snapshot)
 - [Transactions](https://github.com/RemarkableTools/remarkable.tools/wiki/Transactions)
 
 Other useful links:
