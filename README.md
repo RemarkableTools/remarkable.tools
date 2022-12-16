@@ -10,7 +10,7 @@ A set of great tools developed for all MultiversX blockchain users, free to use.
 ## 
 The second part of the project consists in a Github [organization](https://github.com/RemarkableTools) for programmers with the goal of onboarding C# developers into the MultiversX ecosystem. 🛠️
 
-- `ErdCsharp` - Unique C# SDK for interacting with Elrond API. Query the blockchain or send transactions
+- `ErdCsharp` - Unique C# SDK for interacting with Elrond API. Query the blockchain or send transactions.
 - `ErdWalletConnect` - Unique C# SDK for interacting with Elrond Wallets. Create connection and sign transactions.
 
 &nbsp;
