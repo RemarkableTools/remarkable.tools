@@ -1,6 +1,6 @@
 ## Welcome [MultiversX](https://github.com/ElrondNetwork) builders and founders! 👋
 
-`Remarkable Tools` is a project made for MultiversX community with the main goal of offering easy to use tools for anybody. You can join the [Telegram](https://t.me/RemarkableTools) and [Discord](https://discord.io/RemarkableTools) channels if you want to take part in this project!
+`Remarkable Tools` is a project made for MultiversX community with the main goal of offering easy to use tools for anybody. You can join the [Telegram](https://t.me/RemarkableTools) channel or [Discord](https://discord.io/RemarkableTools) server if you want to take part in this project!
 
 A set of great tools developed for all MultiversX blockchain users, free to use.
 - `NFT/SFT snapshot` - Get the owners for multiple NFT/SFT collections at the same time, with multiple download formats.
@@ -8,10 +8,11 @@ A set of great tools developed for all MultiversX blockchain users, free to use.
 - `Tx Filter` - Get blockchain transactions based on some filters, with the possibility to download them.
 
 ## 
-The second part of the project consists in a Github [organization](https://github.com/RemarkableTools) for programmers with the goal of onboarding C# developers into the MultiversX ecosystem. 🛠️
+The second part of the project consists in a GitHub [organization](https://github.com/RemarkableTools) for programmers with the goal of onboarding C# developers into the MultiversX ecosystem. 🛠️
 
-- `ErdCsharp` - Unique C# SDK for interacting with Elrond API. Query the blockchain or send transactions.
-- `ErdWalletConnect` - Unique C# SDK for interacting with Elrond Wallets. Create connection and sign transactions.
+- `ErdCsharp` - Complex C# SDK for interacting with MultiversX API. Query the blockchain or send transactions.
+- `ErdWalletConnect` - Unique C# SDK for interacting with Wallet Providers. Create connection and sign transactions.
+- `dapp-blazor` - .NET Blazor template for developing web applications with C#. ErdCsharp and Login methods integrated.
 
 &nbsp;
 ## [remarkable.tools](https://remarkable.tools)
