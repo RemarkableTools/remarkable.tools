@@ -10,9 +10,9 @@ A set of great tools developed for all MultiversX blockchain users, free to use.
 ## 
 The second part of the project consists in a GitHub [organization](https://github.com/RemarkableTools) for programmers with the goal of onboarding C# developers into the MultiversX ecosystem. 🛠️
 
-- `ErdCsharp` - Complex C# SDK for interacting with MultiversX API. Query the blockchain or send transactions.
-- `ErdWalletConnect` - Unique C# SDK for interacting with Wallet Providers. Create connection and sign transactions.
-- `dapp-blazor` - .NET Blazor template for developing web applications with C#. ErdCsharp and Login methods integrated.
+- [`Mx.NET.SDK`](https://github.com/RemarkableTools/Mx.NET.SDK) - Complex .NET SDK for interacting with MultiversX blockchain. Query the blockchain or send transactions.
+- [`Mx.NET.SDK.WalletProviders`](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - Unique .NET SDK for interacting with Wallet Providers. Create connection and sign transactions.
+- `Mx.Blazor.DApp` (soon) - .NET Blazor template for developing web applications with C#. Mx.NET.SDK and Login methods integrated.
 
 &nbsp;
 ## [remarkable.tools](https://remarkable.tools)
