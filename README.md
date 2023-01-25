@@ -17,10 +17,6 @@ The second part of the project consists in a GitHub [organization](https://githu
 &nbsp;
 ## [remarkable.tools](https://remarkable.tools)
 
-Details about:
-- [Snapshots](https://github.com/RemarkableTools/remarkable.tools/wiki/Snapshot)
-- [Transactions](https://github.com/RemarkableTools/remarkable.tools/wiki/Transactions)
-
 Other useful links:
 - [Remarkable Tools Linktree](https://linktr.ee/remarkabletools)
 - [Put your project on front page](https://github.com/RemarkableTools/remarkable.tools/discussions/2)
