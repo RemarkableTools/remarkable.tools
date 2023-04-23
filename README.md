@@ -12,7 +12,7 @@ The second part of the project consists in a GitHub [organization](https://githu
 
 - [`Mx.NET.SDK`](https://github.com/RemarkableTools/Mx.NET.SDK) - Complex .NET SDK for interacting with MultiversX blockchain. Query the blockchain or send transactions.
 - [`Mx.NET.SDK.WalletProviders`](https://github.com/RemarkableTools/Mx.NET.SDK.WalletProviders) - Unique .NET SDK for interacting with Wallet Providers. Create connection and sign transactions.
-- `Mx.Blazor.DApp` (soon) - .NET Blazor template for developing web applications with C#. Mx.NET.SDK and Login methods integrated.
+- [`Mx.Blazor.DApp`](https://github.com/RemarkableTools/Mx.Blazor.DApp) - .NET Blazor template for developing web applications with C#. Mx.NET.SDK and Login methods integrated.
 
 &nbsp;
 ## [remarkable.tools](https://remarkable.tools)
